@@ -1,0 +1,169 @@
+item {
+  id: 1
+  name: 'Bengal Adult'
+}
+
+item {
+  id: 2
+  name: 'British Shorthair Adult'
+}
+
+item {
+  id: 3
+  name: 'British Shorthair Kitten'
+}
+
+item {
+  id: 4
+  name: 'Maine Coon Adult'
+}
+
+item {
+  id: 5
+  name: 'Maine Coon Kitten'
+}
+
+item {
+  id: 6
+  name: 'Norwegian Forest Adult'
+}
+
+item {
+  id: 7
+  name: 'Persian Adult'
+}
+
+item {
+  id: 8
+  name: 'Persian Kitten'
+}
+
+item {
+  id: 9
+  name: 'Siamese Adult'
+}
+
+item {
+  id: 10
+  name: 'Siberian Adult'
+}
+
+item {
+  id: 11
+  name: 'Sphynx Adult'
+}
+
+item {
+  id: 12
+  name: 'Sphynx Kitten'
+}
+
+item {
+  id: 13
+  name: 'Digestive Care'
+}
+
+item {
+  id: 14
+  name: 'Hair & Skin Care'
+}
+
+item {
+  id: 15
+  name: 'Hairball Care'
+}
+
+item {
+  id: 16
+  name: 'Light Weight Care'
+}
+
+item {
+  id: 17
+  name: 'Oral Care'
+}
+
+item {
+  id: 18
+  name: 'Urinary Care'
+}
+
+item {
+  id: 19
+  name: 'Ageing 12+'
+}
+
+item {
+  id: 20
+  name: 'Ageing Sterilised 12+'
+}
+
+item {
+  id: 21
+  name: 'Aroma Exigent'
+}
+
+item {
+  id: 22
+  name: 'Fit 32'
+}
+
+item {
+  id: 23
+  name: 'Indoor 27'
+}
+
+item {
+  id: 24
+  name: 'Indoor 7+'
+}
+
+item {
+  id: 25
+  name: 'Indoor Appetite Control'
+}
+
+item {
+  id: 26
+  name: 'Indoor Long Hair'
+}
+
+item {
+  id: 27
+  name: 'Protein Exigent'
+}
+
+item {
+  id: 28
+  name: 'Savour Exigent'
+}
+
+item {
+  id: 29
+  name: 'Sensible 33'
+}
+
+item {
+  id: 30
+  name: 'Sterilised 37'
+}
+
+item {
+  id: 31
+  name: 'Sterilised 7+'
+}
+
+item {
+  id: 32
+  name: 'Kitten'
+}
+
+item {
+  id: 33
+  name: 'Kitten Sterilised'
+}
+
+item {
+  id: 34
+  name: 'Mother & Babycat'
+}
